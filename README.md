@@ -1,6 +1,7 @@
 # Bubi AI Chat
 
 An interactive chat client featuring a friendly dog personality named Bubi. The application supports both English and German.
+![Bildschirmfoto 2025-06-02 um 13 47 43](https://github.com/user-attachments/assets/3275009e-a629-424f-8184-5aa826b204e7)
 
 ## Features
 
